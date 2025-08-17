@@ -1,0 +1,9 @@
+{
+	"name": "dataellis",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "48352133-07e5-4322-8a1a-9dd89ceadb9d",
+		"tenantId": "2d90fce4-4ccd-4d03-98f9-0130680df61e"
+	}
+}
